@@ -1,16 +1,4 @@
-# cached_network_image_sample
+# Simplify image caching in Flutter with this package
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Read the [related article](https://davidserrano.io/simplify-image-caching-in-flutter-with-this-package).
+- Watch the related video in [Youtube](https://youtu.be/irkDZRJ56nY) or [Odysee](https://odysee.com/@svprdga:d/simplify-image-caching-in-flutter-with-this-package).
